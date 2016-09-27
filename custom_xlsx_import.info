@@ -1,0 +1,5 @@
+name = Custom XLSX Import
+description = "Import data from .xlsx files (for 'How to..' category)."
+core = 6.x
+dependencies[] = Taxonomy
+package = "Custom"
